@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
 <div>
-  hello sex3
+  hello world 
 </div>
 </template>
 
