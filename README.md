@@ -5,11 +5,11 @@
 
 ### reminder 
 #### pushing file to repo  
--`git add . `
--`git commit -m "commit message" `
--`git push` 
+- `git add . `
+- `git commit -m "commit message" `
+- `git push` 
 #### pulling file from repo
--`git pull` 
+- `git pull` 
 
 #### running dev server
 - `npm run dev`
