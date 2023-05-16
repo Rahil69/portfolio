@@ -23,10 +23,13 @@ const count = ref(0)
 
 @keyframes slide-in {
   0% {
-    transform: translateX(-100%);
+    transform: translateX(-100%) rotate(-90deg) scale(0%);
+
   }
   100% {
-    transform: translateX(0%);
+    transform: translateX(0%) rotate(90deg) scale(100%);
+
+
   }
 }
 </style>
