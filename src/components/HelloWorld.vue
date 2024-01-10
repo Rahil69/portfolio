@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
 <div>
-  i LUV LATINAS!!!!
+  i DONT LUV LATINAS!!!!
 </div>
 </template>
 
